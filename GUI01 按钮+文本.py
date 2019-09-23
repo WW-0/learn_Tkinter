@@ -10,6 +10,7 @@ L=tk.Label(window,textvariable=var,bg='yellow',
 L.pack()
 
 
+
 flag=False
 def hit_me():
     global flag
